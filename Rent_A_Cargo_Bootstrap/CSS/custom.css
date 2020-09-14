@@ -1,0 +1,121 @@
+.navbar-custom {
+  background-color: #15396e;
+  font-family: sans-serif, Century Gothic, arial;
+  font-weight: bold;
+}
+
+/* change the brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+  color: rgba(255, 255, 255, 0.8);
+  text-align: left;
+}
+
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+  color: #ffffff;
+}
+
+.navbar-custom img {
+  width: 40px;
+  height: 40px;
+}
+
+.navbar-custom .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.5%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.slider {
+  position: relative;
+  height: 300px;
+  background-image: url("../images/hero_image_1.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center;
+}
+
+.slider > h1 {
+  position: absolute;
+  background-color: #15396e;
+  padding: 0.5em;
+  font-size: 3em;
+  left: 50%;
+  top: 50%;
+  margin: 0;
+  transform: translate(-50%, -50%);
+}
+
+.slider > h1 > span:first-child {
+  color: #FFAE00;
+}
+
+.slider > h1 > span:last-child {
+  color: white;
+}
+
+.products {
+  padding-top: 10px;
+}
+
+.col-sm-custom {
+  position: relative;
+  width: 24%;
+  margin-left: 5px;
+  margin-right: 5px;
+  border: 1px solid lightgrey;
+}
+
+.col-sm-custom-2 {
+  position: relative;
+  width: 49%;
+  margin-top: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border: 1px solid lightgrey;
+}
+
+.col-sm-custom img {
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.col-sm-custom h2 {
+  padding-left: 0.5em;
+  padding-bottom: 0.5em;
+  color: #15396e;
+  border-bottom: 1px solid lightgrey;
+}
+
+.col-sm-custom p {
+  margin: 1em;
+  text-align: justify;
+  color: #3f3f3f;
+}
+
+.container-custom {
+  width: 100%;
+  padding-right: 100px;
+  padding-left: 100px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+@media (max-width: 576px) {
+  .col-sm-custom {
+    width: 100%;
+    margin-bottom: 5px;
+  }
+
+  .container-custom {
+    width: 100%;
+  }
+}
+
+/*# sourceMappingURL=custom.css.map */

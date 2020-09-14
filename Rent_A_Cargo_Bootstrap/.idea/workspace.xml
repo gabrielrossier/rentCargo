@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48bc2f7e-11b4-4272-ad91-1c50913f0e4b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1hGJQpAlxqwn6yKRdNbpwXYQ5ti" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SCSS" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gabriel.ROSSIER\Documents\Repos\Rent_A_Cargo_Bootstrap\SCSS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gabriel.ROSSIER\Documents\Repos\Rent_A_Cargo_Bootstrap\CSS" />
+      <recent name="C:\Users\Gabriel.ROSSIER\Documents\Repos\Rent_A_Cargo_Bootstrap\SCSS" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48bc2f7e-11b4-4272-ad91-1c50913f0e4b" name="Default Changelist" comment="" />
+      <created>1599631481916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599631481916</updated>
+      <workItem from="1599631482968" duration="14000" />
+      <workItem from="1599652833652" duration="1410000" />
+      <workItem from="1599655513619" duration="100000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599653451890">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-484.1080.1880/0.0.1920.1040/-1920.-19.1920.1040@0.0.1920.1040" timestamp="1599653451890" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599654158944">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.-484.1080.1880/0.0.1920.1040/-1920.-19.1920.1040@0.0.1920.1040" timestamp="1599654158944" />
+    <state x="-1291" y="279" width="662" height="678" key="EditFileWatcherDialog" timestamp="1599655605690">
+      <screen x="-1920" y="-19" width="1920" height="1040" />
+    </state>
+    <state x="-1291" y="279" key="EditFileWatcherDialog/1920.-484.1080.1880/0.0.1920.1040/-1920.-19.1920.1040@-1920.-19.1920.1040" timestamp="1599655605690" />
+    <state x="629" y="298" width="662" height="678" key="EditFileWatcherDialog/1920.-484.1080.1880/0.0.1920.1040/-1920.-19.1920.1040@0.0.1920.1040" timestamp="1599654212010" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1599652977894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.-484.1080.1880/0.0.1920.1040/-1920.-19.1920.1040@0.0.1920.1040" timestamp="1599652977894" />
+    <state x="-1459" y="146" key="SettingsEditor" timestamp="1599655607745">
+      <screen x="-1920" y="-19" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="146" key="SettingsEditor/1920.-484.1080.1880/0.0.1920.1040/-1920.-19.1920.1040@-1920.-19.1920.1040" timestamp="1599655607745" />
+    <state x="461" y="165" key="SettingsEditor/1920.-484.1080.1880/0.0.1920.1040/-1920.-19.1920.1040@0.0.1920.1040" timestamp="1599654224481" />
+  </component>
+</project>
